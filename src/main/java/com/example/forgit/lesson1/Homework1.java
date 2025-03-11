@@ -8,6 +8,6 @@ public class Homework1 {
 
 
     private static void tack1() {
-        System.out.println("решение 1 задачи");
+        System.out.println("решение другое задачи");
     }
 }
